@@ -2,7 +2,7 @@
 
 Install the following third-party packages:
     
-    $ sudo apt-get install git openjdk-8-jdk maven openssl postgresql python-m2crypto python-psycopg2 python-cheetah python-daemon unzip python-dateutil
+    $ sudo apt-get install git openjdk-8-jdk maven openssl postgresql python-m2crypto python-psycopg2 python-cheetah python-daemon unzip python-dateutil python-jinja2
 
 # Note
 jboss has been superseded by WildFly. Installing WildFly is as follows: 
