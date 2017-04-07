@@ -1,0 +1,10 @@
+oVirt Engine Development Environment
+Debian-Based Systems
+
+    Install the following third-party packages:
+
+     # apt-get install git openjdk-8-jdk maven openssl postgresql \
+         python-m2crypto python-psycopg2 python-cheetah python-daemon \
+         unzip python-dateutil
+
+jboss has been superseded by WildFly. 
